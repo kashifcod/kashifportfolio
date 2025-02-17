@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/your-repo-name/static/css/main.87372bc0.css",
+    "main.js": "/your-repo-name/static/js/main.056f7409.js",
+    "static/media/fa-solid-900.ttf": "/your-repo-name/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/your-repo-name/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/your-repo-name/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/Capture.PNG": "/your-repo-name/static/media/Capture.2984f30f1897a8942cd4.PNG",
+    "static/media/e comerce website.jpg": "/your-repo-name/static/media/e comerce website.4c6039979aa7f4d7b7cf.jpg",
+    "static/media/fa-brands-400.woff2": "/your-repo-name/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/profile 1.png": "/your-repo-name/static/media/profile 1.a13506ab98838636a4bd.png",
+    "static/media/Kashif react.pdf": "/your-repo-name/static/media/Kashif react.390393c32e48193003da.pdf",
+    "static/media/fa-regular-400.ttf": "/your-repo-name/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/erp.PNG": "/your-repo-name/static/media/erp.a3e9549fffd43e17250f.PNG",
+    "static/media/fa-regular-400.woff2": "/your-repo-name/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/Task Management App.png": "/your-repo-name/static/media/Task Management App.2eeda1a4422080a16e97.png",
+    "static/media/fa-v4compatibility.ttf": "/your-repo-name/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/your-repo-name/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/your-repo-name/index.html",
+    "main.87372bc0.css.map": "/your-repo-name/static/css/main.87372bc0.css.map",
+    "main.056f7409.js.map": "/your-repo-name/static/js/main.056f7409.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87372bc0.css",
+    "static/js/main.056f7409.js"
+  ]
+}
